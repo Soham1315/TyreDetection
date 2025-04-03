@@ -1,0 +1,4 @@
+train: C:/Users/SOHAM/TyreDetection/data/images/train
+val: C:/Users/SOHAM/TyreDetection/data/images/val
+nc: 1
+names: ["tyre"]
